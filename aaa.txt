@@ -1,0 +1,2 @@
+vim good
+emacs good
